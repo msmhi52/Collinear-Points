@@ -8,7 +8,7 @@ The guideline of the assignment requires BruteCollinear.java which finds colline
 In assignment, nested code provides visualization of collinear points, but this code excludes visualization property.
 
 Also, you can see four input files. After compiling and linking files:
->make
+'''make'''
 
 all you have to do is:
->start command input().txt
+'''start command input().txt'''
