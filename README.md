@@ -9,5 +9,6 @@ In assignment, nested code provides visualization of collinear points, but this 
 
 Also, you can see four input files. After compiling and linking files:
 >make
+
 all you have to do is:
 >start command input().txt
